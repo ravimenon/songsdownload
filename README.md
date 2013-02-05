@@ -1,4 +1,6 @@
-Just download 
+Just download and run,
+
+
 python dlsongs.py  "humraaz 1967"
 
 http://downloadming.info/hamraaz-1967-mp3-songs
